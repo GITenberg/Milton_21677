@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/185
     wikipedia: http://en.wikipedia.org/wiki/Walter_Raleigh_(professor)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21677#Milton
 gutenberg_bookshelf: Biographies
 gutenberg_issued: '2007-06-04'
 gutenberg_type: Text
